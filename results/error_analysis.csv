@@ -1,0 +1,31 @@
+sample_id,text_snippet,true_sentiment,pred_logistic_regression,pred_distilbert,pred_roberta_hf,error_categories
+3,Open too new options other than cable. So far I’m happy with this item. I received as a gift.,positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+18,Tinny with no Bass. These sound better than the buds that came with my mp3 player. The smallest earpad is too small for ...,negative,positive,negative,neutral,"DistilBERT Succeeded, Baseline Failed"
+19,outdoor blink. We purchased these to put inside - which we normally wouldn't do - but we are selling remotely. Wish they...,positive,positive,negative,neutral,Single Model Error
+21,Muffled Alexa vary hard to understand. Alexa sounds like she's talking out of the bottom of a can full of cotton. Resett...,negative,positive,negative,negative,"DistilBERT Succeeded, Baseline Failed"
+22,We were torn: Fire Stick vs. Apple TV. We were torn between the fire stick and the Apple TV. We are an Apple family but ...,positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+23,Great quality. Fit as expected. Nice material and if properly washed should not shrink or fade. I have only washed mine ...,positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+25,Trustworthy product. Had a tough time deciding whether or not to buy the 4K version. This is a gift and the person recei...,positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+28,Vote tshirt. Tshirt material is nice and soft... but I would size up (I actually sized up 2 sizes to the women's 3x beca...,positive,neutral,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+32,Firesticks are awesome. I purchased two of these with the voice.. I've had a total of 5 fire sticks now. I'm a fan.. onl...,positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+36,"Three Stars. The Fire Stick works fine but the Roku has more features, like volume control.",neutral,positive,positive,positive,"Neutral Misclassification, All Models Failed"
+38,Unsure. Would love to see streaming movies not cam overall its ok.,neutral,positive,negative,neutral,"Neutral Misclassification, Off-the-shelf Succeeded, DistilBERT Failed"
+39,Just Ok. I Prefer the Roku. The Firestick for me is just ok. Nothing about it is better or easier to use than the Roku. ...,neutral,positive,negative,positive,"Neutral Misclassification, All Models Failed"
+40,Team titans forever. I love the retro teen titan shirt featuring the team from days gone by. How I loved the comics grow...,neutral,positive,positive,positive,"Neutral Misclassification, All Models Failed"
+41,Easy and cheap. Not the best quality though.. PROS: Easy to set up Super affordable Easily pairs with Alexa CONS: There ...,negative,positive,negative,negative,"DistilBERT Succeeded, Baseline Failed"
+44,Cute but not shiny. [[VIDEOID:24e6e0ed9c177f48a868ab8ee1eef492]] I love the shirt but just know it isn’t a shiny letteri...,positive,neutral,negative,negative,All Models Failed
+46,"Good buy, but my ears deserve better!. Pros: Nice length Fit: Stays in ear while exercising Design: Very lightweight. Co...",neutral,positive,negative,positive,"Neutral Misclassification, All Models Failed"
+51,"touch screen can be difficult. Its good for basic internet use, touch screen can be difficult, have to touch it twice an...",positive,positive,negative,neutral,Single Model Error
+56,Worth it. Does exactly what a cat6 is supposed to do.,positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+57,Trash. A waste of money…..,negative,positive,negative,negative,"DistilBERT Succeeded, Baseline Failed"
+61,"Easy to use, great price!. I received my Kindle Fire HD 8 tablet in May. I recently encountered a problem with my email ...",positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+62,Decal Lettering falling off after 1st washing. I love the design and fit. Problem is with the first wash the lettering i...,negative,positive,negative,neutral,"DistilBERT Succeeded, Baseline Failed"
+66,"Awesome but small. Shirt only came to my waist, exposes belly if I reach overhead. Still a funny af shirt. Describes my ...",positive,neutral,positive,positive,"DistilBERT Succeeded, Baseline Failed"
+74,"Runs small. I ordered a size 6 for my son, but received a 5/6- which definitely fit more like a 5. It was too close to h...",neutral,neutral,negative,neutral,"Neutral Misclassification, Off-the-shelf Succeeded, DistilBERT Failed"
+84,"That it works properly. I use it for my tv and one light, that's it! Half the time when I turn my tv on the sound is off...",negative,positive,negative,negative,"DistilBERT Succeeded, Baseline Failed"
+87,"Still learning to use it. Fairly simple, mostly play games.",positive,positive,positive,neutral,Single Model Error
+88,Three Stars. no good for playing games with chat,neutral,positive,negative,negative,"Neutral Misclassification, All Models Failed"
+89,Surprisingly comfortable. I normally wear a thong underwear on there but due to medical reasons I am having to wear brie...,positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+98,Cheap and Work Well. Cheap and work well. I bought these because they were cheap and I'm always tearing mine up during w...,positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"
+100,"No Live TV. Well I'm disappointed that it doesn't help view Live TV, but other than that it's pretty good.",positive,positive,negative,negative,Single Model Error
+102,Works fine.. Product good. Ticked that the price dropped $20 within a week after my purchase.,positive,positive,negative,positive,"Off-the-shelf Succeeded, DistilBERT Failed"

@@ -1,0 +1,230 @@
+{
+  "Combined": {
+    "sample_count": 300,
+    "aspect_count": 13,
+    "micro_precision": 0.3769,
+    "micro_recall": 0.5854,
+    "micro_f1": 0.4586,
+    "macro_precision": 0.3559,
+    "macro_recall": 0.5265,
+    "macro_f1": 0.4082,
+    "per_aspect": {
+      "battery": {
+        "precision": 0.6296,
+        "recall": 0.5,
+        "f1": 0.5574,
+        "support": 34
+      },
+      "color": {
+        "precision": 0.3519,
+        "recall": 0.6333,
+        "f1": 0.4524,
+        "support": 30
+      },
+      "compatibility": {
+        "precision": 0.36,
+        "recall": 0.5143,
+        "f1": 0.4235,
+        "support": 35
+      },
+      "customer_service": {
+        "precision": 0.3117,
+        "recall": 0.381,
+        "f1": 0.3429,
+        "support": 63
+      },
+      "delivery": {
+        "precision": 0.0968,
+        "recall": 0.1579,
+        "f1": 0.12,
+        "support": 19
+      },
+      "design": {
+        "precision": 0.4468,
+        "recall": 0.4884,
+        "f1": 0.4667,
+        "support": 43
+      },
+      "durability": {
+        "precision": 0.1935,
+        "recall": 0.4865,
+        "f1": 0.2769,
+        "support": 37
+      },
+      "material": {
+        "precision": 0.4189,
+        "recall": 0.775,
+        "f1": 0.5439,
+        "support": 40
+      },
+      "packaging": {
+        "precision": 0.125,
+        "recall": 0.5,
+        "f1": 0.2,
+        "support": 10
+      },
+      "performance": {
+        "precision": 0.2162,
+        "recall": 0.5714,
+        "f1": 0.3137,
+        "support": 28
+      },
+      "price": {
+        "precision": 0.3265,
+        "recall": 0.4,
+        "f1": 0.3596,
+        "support": 40
+      },
+      "quality": {
+        "precision": 0.4784,
+        "recall": 0.8102,
+        "f1": 0.6016,
+        "support": 137
+      },
+      "size_fit": {
+        "precision": 0.6714,
+        "recall": 0.6267,
+        "f1": 0.6483,
+        "support": 75
+      }
+    }
+  },
+  "Electronics": {
+    "sample_count": 150,
+    "aspect_count": 9,
+    "micro_precision": 0.3584,
+    "micro_recall": 0.5376,
+    "micro_f1": 0.4301,
+    "macro_precision": 0.3208,
+    "macro_recall": 0.4516,
+    "macro_f1": 0.3585,
+    "per_aspect": {
+      "packaging": {
+        "precision": 0.2143,
+        "recall": 0.4286,
+        "f1": 0.2857,
+        "support": 7
+      },
+      "quality": {
+        "precision": 0.5259,
+        "recall": 0.7821,
+        "f1": 0.6289,
+        "support": 78
+      },
+      "price": {
+        "precision": 0.3913,
+        "recall": 0.375,
+        "f1": 0.383,
+        "support": 24
+      },
+      "delivery": {
+        "precision": 0.0833,
+        "recall": 0.0714,
+        "f1": 0.0769,
+        "support": 14
+      },
+      "customer_service": {
+        "precision": 0.3235,
+        "recall": 0.3548,
+        "f1": 0.3385,
+        "support": 31
+      },
+      "battery": {
+        "precision": 0.6296,
+        "recall": 0.5,
+        "f1": 0.5574,
+        "support": 34
+      },
+      "performance": {
+        "precision": 0.2162,
+        "recall": 0.5714,
+        "f1": 0.3137,
+        "support": 28
+      },
+      "compatibility": {
+        "precision": 0.36,
+        "recall": 0.5143,
+        "f1": 0.4235,
+        "support": 35
+      },
+      "durability": {
+        "precision": 0.1429,
+        "recall": 0.4667,
+        "f1": 0.2188,
+        "support": 15
+      }
+    }
+  },
+  "Fashion": {
+    "sample_count": 150,
+    "aspect_count": 10,
+    "micro_precision": 0.3911,
+    "micro_recall": 0.6246,
+    "micro_f1": 0.481,
+    "macro_precision": 0.3324,
+    "macro_recall": 0.5781,
+    "macro_f1": 0.4001,
+    "per_aspect": {
+      "packaging": {
+        "precision": 0.0769,
+        "recall": 0.6667,
+        "f1": 0.1379,
+        "support": 3
+      },
+      "quality": {
+        "precision": 0.431,
+        "recall": 0.8475,
+        "f1": 0.5714,
+        "support": 59
+      },
+      "price": {
+        "precision": 0.2692,
+        "recall": 0.4375,
+        "f1": 0.3333,
+        "support": 16
+      },
+      "delivery": {
+        "precision": 0.1053,
+        "recall": 0.4,
+        "f1": 0.1667,
+        "support": 5
+      },
+      "customer_service": {
+        "precision": 0.3023,
+        "recall": 0.4062,
+        "f1": 0.3467,
+        "support": 32
+      },
+      "size_fit": {
+        "precision": 0.6714,
+        "recall": 0.6267,
+        "f1": 0.6483,
+        "support": 75
+      },
+      "material": {
+        "precision": 0.4189,
+        "recall": 0.775,
+        "f1": 0.5439,
+        "support": 40
+      },
+      "design": {
+        "precision": 0.4468,
+        "recall": 0.4884,
+        "f1": 0.4667,
+        "support": 43
+      },
+      "color": {
+        "precision": 0.3519,
+        "recall": 0.6333,
+        "f1": 0.4524,
+        "support": 30
+      },
+      "durability": {
+        "precision": 0.25,
+        "recall": 0.5,
+        "f1": 0.3333,
+        "support": 22
+      }
+    }
+  }
+}

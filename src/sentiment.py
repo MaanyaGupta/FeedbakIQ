@@ -60,7 +60,10 @@ def load_sentiment_data(
             "Please run metadata and preprocessing pipeline first."
         )
 
-    df = pd.read_parquet(target_path)
+    try:
+        df = pd.read_parquet(target_path)
+    except Exception:
+        df = pd.read_parquet(target_path, engine="fastparquet")
     logger.info("Loaded %d reviews from '%s'.", len(df), target_path.name)
 
     if domain and domain.lower() != "combined":

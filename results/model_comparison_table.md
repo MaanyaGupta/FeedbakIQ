@@ -1,0 +1,11 @@
+| Model                        | Domain      |   Accuracy |   Precision |   Recall |     F1 |   Macro F1 |   Neutral F1 |
+|:-----------------------------|:------------|-----------:|------------:|---------:|-------:|-----------:|-------------:|
+| TF-IDF + Logistic Regression | Electronics |     0.8485 |      0.8341 |   0.8485 | 0.8123 |     0.5322 |       0.3333 |
+| Fine-tuned DistilBERT        | Electronics |     0.8788 |      0.8291 |   0.8788 | 0.8504 |     0.5511 |       0      |
+| Off-the-shelf RoBERTa (HF)   | Electronics |     0.8788 |      0.8434 |   0.8788 | 0.8576 |     0.5541 |       0      |
+| TF-IDF + Logistic Regression | Fashion     |     0.85   |      0.7225 |   0.85   | 0.7811 |     0.3063 |       0      |
+| Fine-tuned DistilBERT        | Fashion     |     0.85   |      0.7831 |   0.85   | 0.8151 |     0.421  |       0      |
+| Off-the-shelf RoBERTa (HF)   | Fashion     |     0.85   |      0.8389 |   0.85   | 0.843  |     0.4522 |       0      |
+| TF-IDF + Logistic Regression | Combined    |     0.8585 |      0.8478 |   0.8585 | 0.8397 |     0.5752 |       0.1818 |
+| Fine-tuned DistilBERT        | Combined    |     0.7925 |      0.8449 |   0.7925 | 0.798  |     0.4732 |       0      |
+| Off-the-shelf RoBERTa (HF)   | Combined    |     0.8868 |      0.8887 |   0.8868 | 0.8876 |     0.6723 |       0.2857 |

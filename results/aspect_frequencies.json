@@ -1,0 +1,226 @@
+[
+  {
+    "domain": "All",
+    "aspect": "quality",
+    "count": 137,
+    "total_reviews": 300,
+    "frequency_pct": 45.67
+  },
+  {
+    "domain": "All",
+    "aspect": "size_fit",
+    "count": 75,
+    "total_reviews": 300,
+    "frequency_pct": 25.0
+  },
+  {
+    "domain": "All",
+    "aspect": "customer_service",
+    "count": 63,
+    "total_reviews": 300,
+    "frequency_pct": 21.0
+  },
+  {
+    "domain": "All",
+    "aspect": "design",
+    "count": 43,
+    "total_reviews": 300,
+    "frequency_pct": 14.33
+  },
+  {
+    "domain": "All",
+    "aspect": "price",
+    "count": 40,
+    "total_reviews": 300,
+    "frequency_pct": 13.33
+  },
+  {
+    "domain": "All",
+    "aspect": "material",
+    "count": 40,
+    "total_reviews": 300,
+    "frequency_pct": 13.33
+  },
+  {
+    "domain": "All",
+    "aspect": "durability",
+    "count": 37,
+    "total_reviews": 300,
+    "frequency_pct": 12.33
+  },
+  {
+    "domain": "All",
+    "aspect": "compatibility",
+    "count": 35,
+    "total_reviews": 300,
+    "frequency_pct": 11.67
+  },
+  {
+    "domain": "All",
+    "aspect": "battery",
+    "count": 34,
+    "total_reviews": 300,
+    "frequency_pct": 11.33
+  },
+  {
+    "domain": "All",
+    "aspect": "color",
+    "count": 30,
+    "total_reviews": 300,
+    "frequency_pct": 10.0
+  },
+  {
+    "domain": "All",
+    "aspect": "performance",
+    "count": 28,
+    "total_reviews": 300,
+    "frequency_pct": 9.33
+  },
+  {
+    "domain": "All",
+    "aspect": "delivery",
+    "count": 19,
+    "total_reviews": 300,
+    "frequency_pct": 6.33
+  },
+  {
+    "domain": "All",
+    "aspect": "packaging",
+    "count": 10,
+    "total_reviews": 300,
+    "frequency_pct": 3.33
+  },
+  {
+    "domain": "Electronics",
+    "aspect": "quality",
+    "count": 78,
+    "total_reviews": 150,
+    "frequency_pct": 52.0
+  },
+  {
+    "domain": "Electronics",
+    "aspect": "compatibility",
+    "count": 35,
+    "total_reviews": 150,
+    "frequency_pct": 23.33
+  },
+  {
+    "domain": "Electronics",
+    "aspect": "battery",
+    "count": 34,
+    "total_reviews": 150,
+    "frequency_pct": 22.67
+  },
+  {
+    "domain": "Electronics",
+    "aspect": "customer_service",
+    "count": 31,
+    "total_reviews": 150,
+    "frequency_pct": 20.67
+  },
+  {
+    "domain": "Electronics",
+    "aspect": "performance",
+    "count": 28,
+    "total_reviews": 150,
+    "frequency_pct": 18.67
+  },
+  {
+    "domain": "Electronics",
+    "aspect": "price",
+    "count": 24,
+    "total_reviews": 150,
+    "frequency_pct": 16.0
+  },
+  {
+    "domain": "Electronics",
+    "aspect": "durability",
+    "count": 15,
+    "total_reviews": 150,
+    "frequency_pct": 10.0
+  },
+  {
+    "domain": "Electronics",
+    "aspect": "delivery",
+    "count": 14,
+    "total_reviews": 150,
+    "frequency_pct": 9.33
+  },
+  {
+    "domain": "Electronics",
+    "aspect": "packaging",
+    "count": 7,
+    "total_reviews": 150,
+    "frequency_pct": 4.67
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "size_fit",
+    "count": 75,
+    "total_reviews": 150,
+    "frequency_pct": 50.0
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "quality",
+    "count": 59,
+    "total_reviews": 150,
+    "frequency_pct": 39.33
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "design",
+    "count": 43,
+    "total_reviews": 150,
+    "frequency_pct": 28.67
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "material",
+    "count": 40,
+    "total_reviews": 150,
+    "frequency_pct": 26.67
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "customer_service",
+    "count": 32,
+    "total_reviews": 150,
+    "frequency_pct": 21.33
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "color",
+    "count": 30,
+    "total_reviews": 150,
+    "frequency_pct": 20.0
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "durability",
+    "count": 22,
+    "total_reviews": 150,
+    "frequency_pct": 14.67
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "price",
+    "count": 16,
+    "total_reviews": 150,
+    "frequency_pct": 10.67
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "delivery",
+    "count": 5,
+    "total_reviews": 150,
+    "frequency_pct": 3.33
+  },
+  {
+    "domain": "Fashion",
+    "aspect": "packaging",
+    "count": 3,
+    "total_reviews": 150,
+    "frequency_pct": 2.0
+  }
+]
